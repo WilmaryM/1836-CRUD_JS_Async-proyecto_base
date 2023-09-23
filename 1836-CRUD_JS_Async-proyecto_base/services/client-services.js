@@ -21,3 +21,5 @@ export const clientServices = {
   listaClientes,
   crearCliente,
   eliminarCliente,
+
+}
